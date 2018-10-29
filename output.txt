@@ -1,0 +1,121 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=57840:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\easto\IdeaProjects\Cyclone\out\production\Cyclone Main
+Enter Latitude: 
+25
+Enter Longitude: 
+-15
+Enter Latitude: 
+23
+Enter Longitude: 
+-20
+The distance is between the two points is ~554.40 kilometers. 
+Enter Latitude: 
+23
+Enter Longitude: 
+-20
+Enter Latitude: 
+21
+Enter Longitude: 
+-24
+The distance is between the two points is ~468.50 kilometers. 
+Enter Latitude: 
+21
+Enter Longitude: 
+-24
+Enter Latitude: 
+20
+Enter Longitude: 
+-27
+The distance is between the two points is ~331.65 kilometers. 
+Enter Latitude: 
+20
+Enter Longitude: 
+-27
+Enter Latitude: 
+19
+Enter Longitude: 
+-35
+The distance is between the two points is ~845.79 kilometers. 
+Enter Latitude: 
+19
+Enter Longitude: 
+-35
+Enter Latitude: 
+21
+Enter Longitude: 
+-46
+The distance is between the two points is ~1170.41 kilometers. 
+Enter Latitude: 
+21
+Enter Longitude: 
+-46
+Enter Latitude: 
+23
+Enter Longitude: 
+-56
+The distance is between the two points is ~1054.44 kilometers. 
+Enter Latitude: 
+23
+Enter Longitude: 
+-56
+Enter Latitude: 
+25
+Enter Longitude: 
+-65
+The distance is between the two points is ~940.67 kilometers. 
+Enter Latitude: 
+25
+Enter Longitude: 
+-65
+Enter Latitude: 
+28
+Enter Longitude: 
+-70
+The distance is between the two points is ~598.93 kilometers. 
+Enter Latitude: 
+28
+Enter Longitude: 
+-70
+Enter Latitude: 
+32
+Enter Longitude: 
+-73
+The distance is between the two points is ~530.30 kilometers. 
+Enter Latitude: 
+32
+Enter Longitude: 
+-73
+Enter Latitude: 
+34
+Enter Longitude: 
+-74
+The distance is between the two points is ~241.15 kilometers. 
+Enter Latitude: 
+34
+Enter Longitude: 
+-74
+Enter Latitude: 
+36
+Enter Longitude: 
+-74
+The distance is between the two points is ~222.39 kilometers. 
+Enter Latitude: 
+36
+Enter Longitude: 
+-74
+Enter Latitude: 
+39
+Enter Longitude: 
+-74
+The distance is between the two points is ~333.58 kilometers. 
+Enter Latitude: 
+39
+Enter Longitude: 
+-74
+Enter Latitude: 
+39
+Enter Longitude: 
+-74
+The distance is between the two points is ~0.00 kilometers. 
+The total distance over the course of 13 days is ~7292.20 kilometers. 
+
+Process finished with exit code 0
